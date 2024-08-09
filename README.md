@@ -45,7 +45,7 @@
 <img align="right" alt="Hacker-gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF2bXp0bHEwcXZrYTdxc2dmODQ5NTh0NHFkd3NtZTQ3Z3V4Znd0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.webp">
 
 - Portuguese (Native)
-- English (Intermediary
+- English (Intermediary)
 
 ##
 <div style="display: inline_block"><br>
