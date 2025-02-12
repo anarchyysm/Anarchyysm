@@ -4,9 +4,8 @@
 ## Programing languages
 ### BackEnd:
 
-- C
-- C++
-- C#, ASP.NET
+- C/C++ **(principal)**
+- C#, ASP.NET **(principal)**
 - Python
 - Ruby
 - PHP
