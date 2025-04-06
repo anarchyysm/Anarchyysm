@@ -5,7 +5,7 @@
 ### BackEnd:
 
 - C/C++ **(principal)**
-- C#, ASP.NET **(principal)**
+- C#, ASP.NET 
 - Python
 - Ruby
 - PHP
