@@ -36,9 +36,9 @@
 - English (Intermediary)
 
 ##
-
+‎<img align="right" alt="Hacker-gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF2bXp0bHEwcXZrYTdxc2dmODQ5NTh0NHFkd3NtZTQ3Z3V4Znd0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.webp">
   ### About Me
-  ‎<img align="right" alt="Hacker-gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF2bXp0bHEwcXZrYTdxc2dmODQ5NTh0NHFkd3NtZTQ3Z3V4Znd0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.webp">
+  
   I like develop cool tools, some Malware with C++ and webapps. I pass almost of my time hacking (everything XD), and im available for new projects, pentests, feedback, and more. If you have any questions, feel free to send me a DM on Instagram. 😄
 ‎
 <div> 
