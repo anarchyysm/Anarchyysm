@@ -38,8 +38,7 @@
 
 ##
   ### About Me
-  Available for new projects, pentests, feedback, and more. If you have any questions, feel free to send me a DM on Instagram. 😄
-  
+  I like develop cool tools, some Malware with C++ and webapps. I pass almost of my time hacking (everything XD), and im available for new projects, pentests, feedback, and more. If you have any questions, feel free to send me a DM on Instagram. 😄
 </div>
 
 
