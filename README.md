@@ -35,10 +35,6 @@ If you have any questions, feel free to send me a DM on Instagram. 😄
 <br clear="all">
 
 <div align="center">
-  <br>
-  <a href="https://www.youtube.com/@nosferatu1054" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
   <a href="https://instagram.com/anarchyysm" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
