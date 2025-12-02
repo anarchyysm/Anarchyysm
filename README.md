@@ -1,9 +1,7 @@
-<div align="center">
-
 # Hi, you're welcome :P
 ### My name is Emanuel, Cybersec Researcher and Web Developer.
 
----
+
 
 ## 💻 Tech Stack
 
@@ -34,6 +32,7 @@
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 ### Operating Systems
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -43,8 +42,6 @@
 <img src="https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge" alt="Portuguese"/>
 <img src="https://img.shields.io/badge/English-Intermediary-blue?style=for-the-badge" alt="English"/>
 
-</div>
-
 ---
 
 ## 💀 About Me
@@ -53,13 +50,14 @@
 
 I like to develop cool tools, some **Malware with C++** and webapps. 
 
-I spend most of my time hacking (everything XD), and I'm available for new projects, pentests, feedback, and more. 
+I pass almost of my time hacking (everything XD), and im available for new projects, pentests, feedback, and more. 
 
 If you have any questions, feel free to send me a DM on Instagram. 😄
 
 <br clear="all">
 
 <div align="center">
+  <br>
   <a href="https://www.youtube.com/@nosferatu1054" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
