@@ -38,7 +38,7 @@ If you have any questions, feel free to send me a DM on Instagram. 😄
   <a href="https://instagram.com/anarchyysm" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:emanuel.mag.jr@gmail.com">
+  <a href="mailto:binaries@systemli.org">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
