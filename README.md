@@ -24,7 +24,6 @@ Open to new projects, pentests, and interesting conversations.
 - mail · `binaries@systemli.org`
 - ig · [@anarchyysm](https://instagram.com/anarchyysm)
 
----
 
 ```
 . █ .
@@ -32,4 +31,4 @@ Open to new projects, pentests, and interesting conversations.
 █ █ █
 ```
 
-<p><code>anarchyysm@nevermind:~$&nbsp;</code><img src="cursor.svg" alt="" height="14"></p>
+<p><code>anarchyysm@nevermind:~$&nbsp;</code><img src="cursor.svg" alt="" height="20" align="absmiddle"></p>
